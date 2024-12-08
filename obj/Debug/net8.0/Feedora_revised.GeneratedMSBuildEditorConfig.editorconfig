@@ -230,6 +230,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/tankokwee/source/repos/Feedora_revised/Feedora_revised/Components/Pages/LoginedPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbmVkUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tankokwee/source/repos/Feedora_revised/Feedora_revised/Components/Pages/RestaurantPages/Create.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXN0YXVyYW50UGFnZXNcQ3JlYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

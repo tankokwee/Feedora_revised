@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Feedora_revised")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b065bfc50fb7a2f504bb469dba91abe157380e30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c304e60e025c7291fa2a7ec85ffb410387d92d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Feedora_revised")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Feedora_revised")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

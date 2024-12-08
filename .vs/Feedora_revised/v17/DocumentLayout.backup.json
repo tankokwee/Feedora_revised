@@ -46,8 +46,7 @@
               "RelativeToolTip": "Components\\Account\\Pages\\ConfirmEmail.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T12:52:16.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T12:52:16.73Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Components\\Account\\Pages\\RegisterConfirmation.razor",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T12:52:02.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T12:52:02.16Z"
             },
             {
               "$type": "Document",
@@ -68,9 +66,9 @@
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised\\Components\\Account\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised\\Components\\Account\\Pages\\Login.razor*",
-              "RelativeToolTip": "Components\\Account\\Pages\\Login.razor*",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAuwIEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAuwHgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-08T12:50:25.168Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "wwwroot\\bootstrap\\bootstrap.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACC1AEAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-08T12:44:13.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T12:44:13.613Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "wwwroot\\app.css",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAD4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-08T12:40:01.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T12:40:01.974Z"
             }
           ]
         }

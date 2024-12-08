@@ -49,3 +49,90 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Shared */
+
+body {
+    background-color: #fff;
+    margin: 0;
+}
+
+.header {
+    background-color: #d4ecff;
+    padding: 5px;
+    margin: 0px;
+    height: 5vh;
+}
+
+h1, h2 {
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    font-weight: 600;
+    font-style: bold;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+h2 {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+    margin: 10px;
+    text-align: center;
+}
+
+p, label, input {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-size: 17.5px;
+}
+
+a {
+    text-decoration: none;
+    color: #005eb4;
+}
+
+label, input {
+    font-size: 12px;
+}
+
+/* Form */
+
+label {
+    display: block;
+    text-align: left;
+}
+
+.form {
+    display: flex;
+    height: 95vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+input {
+    display: block;
+    width: 250px;
+    height: 30px;
+    border-color: #000000;
+    border-width: 1px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.submit {
+    color: #fff;
+    background-color: #000000;
+    width: 160px;
+    height: 50px;
+}

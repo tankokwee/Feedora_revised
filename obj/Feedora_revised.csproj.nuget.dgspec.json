@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised.csproj": {}
+    "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised\\Feedora_revised.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised.csproj": {
+    "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised\\Feedora_revised.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised.csproj",
+        "projectUniqueName": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised\\Feedora_revised.csproj",
         "projectName": "Feedora_revised",
-        "projectPath": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised.csproj",
+        "projectPath": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised\\Feedora_revised.csproj",
         "packagesPath": "C:\\Users\\tankokwee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\obj\\",
+        "outputPath": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\Feedora_revised\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tankokwee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,14 @@
               "version": "[8.0.11, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.11, )"
             },

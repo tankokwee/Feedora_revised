@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Feedora_revised.Migrations
 {
-    [DbContext(typeof(Feedora_revisedContext))]
+    [DbContext(typeof(FeedoraRevisedContext))]
     [Migration("20241208075701_SeedData")]
     partial class SeedData
     {

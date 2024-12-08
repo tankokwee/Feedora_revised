@@ -4,7 +4,7 @@
 @using Feedora_revised.Domain
 @using Feedora_revised.Data
 @implements IAsyncDisposable
-@inject IDbContextFactory<Feedora_revised.Data.Feedora_revisedContext> DbFactory
+@inject IDbContextFactory<Feedora_revised.Data.FeedoraRevisedContext> DbFactory
 
 <PageTitle>Index</PageTitle>
 
@@ -31,7 +31,7 @@
 </QuickGrid>
 
 @code {
-    private Feedora_revisedContext context = default!;
+    private FeedoraRevisedContext context = default!;
 
     protected override void OnInitialized()
     {

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Feedora_revised.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Feedora_revised.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tankokwee\\source\\repos\\Feedora_revised\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Feedora_revised.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Feedora_revised.props",
+      "PackagePath": "build\\Feedora_revised.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Feedora_revised.props",
+      "PackagePath": "buildMultiTargeting\\Feedora_revised.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Feedora_revised.props",
+      "PackagePath": "buildTransitive\\Feedora_revised.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

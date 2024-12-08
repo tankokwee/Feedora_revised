@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Feedora_revised.props" />
+</Project>
